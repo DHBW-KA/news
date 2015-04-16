@@ -1,4 +1,4 @@
-== Vorbereitung
+## Vorbereitung
 
 * Mache die folgenden Abschnitte von http://guides.rubyonrails.org/index.html offline verfügbar:
     * Models
@@ -19,6 +19,7 @@
     * CSS-Selektoren
     * Scopes
     * Scaffolding
+    * Migrations
     * Sessions
 
 * Generiere die folgenden Modelle (Option -s verwenden!):
@@ -34,6 +35,6 @@
         * username - string
         * email - string
         * Hat viele Artikel
-    * Categorie
+    * Category
         * name - string
         * Hat viele Artikel
