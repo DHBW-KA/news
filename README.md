@@ -1,4 +1,4 @@
-== Vorbereitung
+## Vorbereitung
 
 * Mache die folgenden Abschnitte von http://guides.rubyonrails.org/index.html offline verfügbar:
     * Models
@@ -35,6 +35,6 @@
         * username - string
         * email - string
         * Hat viele Artikel
-    * Categorie
+    * Category
         * name - string
         * Hat viele Artikel
