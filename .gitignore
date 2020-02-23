@@ -21,3 +21,4 @@
 *.iml
 .rakeTasks
 .generators
+node_modules
